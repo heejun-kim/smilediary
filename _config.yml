@@ -1,18 +1,15 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "스마일 다이어리"
+tagline:            "스타트업 1인 디지털 마케터의 이야기"
+email:              "junian9193@gmail.com"
+description:        "비전공 행정학과 학생이 디지털 마케터로 취업하고 스타트업의 1인 마케터로 살아온 이야기"
+author:             "주니언"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://heejun.kim"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "img/blog_thumbnail.jpg" #블로그 썸네일
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+
 
 # Build settings
 markdown:           kramdown
