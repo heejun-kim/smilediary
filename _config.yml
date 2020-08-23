@@ -6,7 +6,7 @@ author:             "주니언"
 baseurl:            "/"
 url:                "https://heejun.kim"
 locale:             "ko_KR"
-thumbnail:          "img/blog_thumbnail.jpg" #블로그 썸네일
+thumbnail:          "/img/blog_thumbnail.jpg" #블로그 썸네일
 
 # Social Profiles
 
