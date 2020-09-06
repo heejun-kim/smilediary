@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /How-did-non-major-public-administration-students-become-digital-marketer-first-story/
+permalink: /how-did-non-major-public-administration-students-become-digital-marketer-first-story/
 title: '공모전, 인턴 경험 1도 없는 행정학과 학생 디지털 마케터가 되다 (1탄)'
 date: 2020-08-23 11:00:00 +09:00
 feature: '/img/posts/01/first_thumbnail.jpg'
@@ -24,7 +24,7 @@ description: '내가 정한 꿈이 아닌 부모님이 정해주신 공무원을
 
 ## 쓰디쓴 실패를 맛보다
 
-9개월을 준비하고 본 첫 시험에서 10점 차 정도의 점수로 떨어진 뒤 1년 뒤 다시 본 시험에서도 저는 몇 점 차이로 떨어졌습니다. 
+9개월을 준비하고 본 첫 시험에서 10점 차 정도의 점수로 떨어진 뒤 1년 뒤 다시 본 시험에서도 저는 몇 점 차이로 떨어졌습니다.
 
 ![갈림길](/img/posts/01/forkedroad.jpg)
 
@@ -35,4 +35,3 @@ description: '내가 정한 꿈이 아닌 부모님이 정해주신 공무원을
 ![바쁘게 살아가는 모습](/img/posts/01/busylife.jpg)
 
 25살 실패의 경험을 갖고 2학년 2학기로 복학한 후 정말 바쁘게 살았어요. 부모님께서 주셨던 금전적 도움을 갚기 위해 4학년 1학기까지 4.5를 맞추기 위해 학업에 열중했고 내가 정말 좋아하는 것을 찾기 위해 그리고 그 과정에서 찾은 약점을 보완하기 위해 동아리, 교내활동, 대외활동을 했습니다. <br>대부분 도움이 되었지만 지금 디지털 마케터로 살아가는 데 특히 도움이 되는 것들만 간략하게 다음 편에서 소개해보려고 해요.
-
