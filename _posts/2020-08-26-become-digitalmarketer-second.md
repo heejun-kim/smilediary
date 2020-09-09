@@ -1,19 +1,19 @@
 ---
 layout: post
-permalink: /how-did-non-major-public-administration-students-become-digital-marketer-second-story/
+permalink: /category/jobstory/how-did-non-major-public-administration-students-become-digital-marketer-second-story/
 title: '공모전, 인턴 경험 1도 없는 행정학과 학생 디지털 마케터가 되다 (2탄)'
 date: 2020-08-26 19:37:00 +09:00
 feature: '/img/posts/02/second_thumbnail.jpg'
 background: '/img/posts/02/second_header.jpg'
 categories:
-  - job
+  - category-jobstory
 tags:
   - 디지털 마케팅
   - 상상유니브
   - 잇다
   - 취준생
   - 비전공
-description: '내게 삶에 동기부여를 주고, 진로를 탐색하는데 도움을 주었던 활동과 서비스'
+description: '취준 기간 동안 내게 동기부여를 주고, 진로를 탐색하는데 도움을 주었던 활동과 서비스'
 ---
 
 2탄에서는 1탄에서 안내해 드렸던 것처럼 제가 취업을 준비하고 디지털 마케터로 살아가는 데 도움이 되었던 것을 소개하고자 합니다. 제게 삶에 동기부여를 주고, 진로를 탐색하는 데 도움이 되었던 대외활동과 서비스를 소개합니다.
