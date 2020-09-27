@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /category/jobstory/how-did-non-major-public-administration-students-become-digital-marketer-third-story/
-title: '공모전, 인턴 경험 1도 없는 행정학과 학생 디지털 마케터가 되다 (3탄)'
+title: '공모전, 인턴 경험 1도 없는 비전공자 행정학과 학생 디지털 마케터가 되다 (3탄)'
 date: 2020-09-13 12:10:00 +09:00
 feature: '/img/posts/03/third_thumbnail.jpg'
 background: '/img/posts/03/third_header.jpg'
@@ -13,7 +13,7 @@ tags:
   - 그로스해킹
   - 취준생
   - 비전공
-description: '디지털 마케터라는 꿈을 가지게 되기까지의 과정'
+description: '평범한 비전공자 대학생이 디지털 마케터라는 꿈을 가지게 되기까지의 과정'
 ---
 
 벌써 3번째 글이네요. 오늘은 2탄에서 말씀드렸던 대로 제가 디지털 마케터라는 직업을 목표로 가지게 된 계기를 얘기해보려고 합니다.
