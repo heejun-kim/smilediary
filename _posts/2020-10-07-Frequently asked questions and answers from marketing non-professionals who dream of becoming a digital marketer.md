@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /category/jobstory/i will solve the curiosity of non-majors who dream of becoming digital marketers./
+permalink: /category/jobstory/i-will-solve-the-curiosity-of-non-majors-who-dream-of-becoming digital marketers./
 title: '디지털 마케터를 꿈꾸는 비전공자들의 궁금증 해결해드릴게요'
 date: 2020-10-07 19:30:00 +09:00
 feature: '/img/posts/05/qna_thumbnail.jpg'
