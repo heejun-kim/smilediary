@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /category/marketingstory/learn_about_google_analytics_4_and_set_up_google_analytics_4_without_google_tag_manager/
-title: "구글 애널리틱스 4(google analytics 4)에 대해 알아보고 구글 태그매니저 없이 구글 애널리틱스 4 세팅해보기"
+title: "구글 애널리틱스 4(google analytics 4)에 대해 알아보고 구글 태그매니저 없이 구글 애널리틱스 4 세팅해보고 내부 IP 필터 적용해보기"
 date: 2020-11-07 23:05:00 +09:00
 feature: '/img/posts/07/google_analytics_four_thumbnail.jpg'
 background: '/img/posts/07/change_coming_header.jpg'
@@ -13,7 +13,7 @@ tags:
   - 취준생
   - 유니버설 구글 애널리틱스
   - 이벤트
-description: '새로 탄생한 구글 애널리틱스 4(google analytics 4)에 대해 알아보고 구글 태그매니저 없이 세팅까지 해보겠습니다.'
+description: '새로 탄생한 구글 애널리틱스 4(google analytics 4)에 대해 알아보고 구글 태그매니저 없이 세팅까지 해보고 내부 IP 필터까지 적용해보겠습니다.'
 ---
 
 
@@ -107,11 +107,18 @@ description: '새로 탄생한 구글 애널리틱스 4(google analytics 4)에 �
 
 구글 애널리틱스 4에서 보기와 필터가 없어졌다고 내부 트래픽 제한이 불가능하다는 말이 있는데 이는 전혀 틀린 말입니다. 자신의 웹 데이터 스트림 내부에서 태그 설정을 누르면 내부 트래픽을 정의할 수 있는 곳이 나옵니다.
 
-![구글 애널리틱스. 4 내부 ip 필터](/img/posts/07/google_analytics_four_ip_filter.png)
+![구글 애널리틱스 4 내부 ip 필터 제거 step1](/img/posts/07/google_analytics_four_ip_filter.png)
 
 그리고 내부 트래픽 정의에 들어가면 아래와 같이 내부 IP를 필터링 할 수 있는 설정 창이 뜹니다. 여기에서 '내 IP 주소 알아보기'를 눌러 제거하고 싶은 IP를 제거하면 됩니다.
 
-![구글 애널리틱스. 4 내부 ip 필터](/img/posts/07/google_analytics_four_ip_filter_2.png)
+![구글 애널리틱스 4 내부 ip 필터 제거 step2](/img/posts/07/google_analytics_four_ip_filter_2.png)
 
-오늘은 구글 애널리틱스 4(google analytics 4)가 무엇인지 왜 사용해야 하는지 어떻게 설치하는지에 대해 알아봤습니다. <br>다음 글은 구글 애널리틱스 4를 본격적으로 사용하기 위한 이벤트와 매개변수에 대해 다뤄볼 예정이니 스마일 다이어리를 잊지 말아 주세요!<br>감사힙니다:-)
+여기서 하나 더 주의점이 있는데요! 구글 애널리틱스 4에서는 보기에 필터가 걸리는 것이 아니기 때문에 내부 IP를 제거한다고 실시간 데이터가 잡히지 않는다거나 하지 않습니다. 아래의 사진을 보시면 좀 더 이해가 쉬울겁니다.
+
+ ![구글 애널리틱스. 4 내부 ip 필터 제거 step3](/img/posts/07/google_analytics_four_ip_filter_3.png)
+
+구글 애널리틱스 4에서는 이미지에 써져있는 것처럼 내부 트래픽은 하나의 측정기준으로서 존재합니다. 유니버설 구글 애널리틱스를 쓰신 분은 측정기준의 요소로 데이터를 필터링하는 것이 가능하다는 걸 아실겁니다.
+이와 마찬가지로 구글 애널리틱스 4 분석허브에서 새로운 보고서를 만들 때 필터에서 기본으로 정의 되어있는 '테스트 데이터 필터 이름' 측정기준을 골라 조건으로 **다음을 포함하지 않음**을 선택하고 **Internal Traffic**을 넣으면 내부 트래픽으로 설정해 놓은 IP에서의 활동이 제거된 데이터로 확인이 가능해집니다.
+
+오늘은 구글 애널리틱스 4(google analytics 4)가 무엇인지 왜 사용해야 하는지 어떻게 설치하는지 그리고 어떻게 내부 트래픽을 제외하고 활용하는지에 대해 알아봤습니다. <br>다음 글은 구글 애널리틱스 4를 본격적으로 사용하기 위한 이벤트와 매개변수에 대해 다뤄볼 예정이니 스마일 다이어리를 잊지 말아 주세요!<br>감사힙니다:-)
 
