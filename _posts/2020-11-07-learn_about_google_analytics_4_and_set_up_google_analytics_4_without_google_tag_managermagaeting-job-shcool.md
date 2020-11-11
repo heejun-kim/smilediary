@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /category/marketingstory/learn_about_google_analytics_4,_set_up_google_analytics_4_without_google_tag_manager_and_apply_internal_ip_filter/
-title: "구글 태그매니저 없이 구글 애널리틱스 4(Google Analytics 4) 세팅해보고 내부 IP 필터 적용해보기"
+title: "구글 애널리틱스 4(Google Analytics 4)를 알아본 뒤, 구글 태그 매니저 없이 세팅해보고 내부 IP를 제거해보자"
 date: 2020-11-07 23:05:00 +09:00
 feature: '/img/posts/07/google_analytics_four_thumbnail.jpg'
 background: '/img/posts/07/change_coming_header.jpg'
